@@ -17,31 +17,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.logging.log4j:log4j-core:2.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.logging.log4j:log4j-api:2.1" level="project" />
-    <orderEntry type="module-library" scope="PROVIDED">
-      <library name="Gradle: GNSS-:geosystems GNSS ">
-        <CLASSES />
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-core:2.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-api:2.1" level="project" />
-    <orderEntry type="module-library" scope="RUNTIME">
-      <library name="Gradle: GNSS-:geosystems GNSS ">
-        <CLASSES />
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="library" scope="TEST" name="Gradle: org.apache.logging.log4j:log4j-core:2.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.apache.logging.log4j:log4j-api:2.1" level="project" />
-    <orderEntry type="module-library" scope="TEST">
-      <library name="Gradle: GNSS-:geosystems GNSS ">
-        <CLASSES />
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module" module-name="GNSS" />
   </component>
 </module>

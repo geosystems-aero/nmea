@@ -37,6 +37,6 @@ repositories {
 dependencies {
 //    compile "org.jetbrains.kotlin:kotlin-stdlib-jre8"
     compile "org.apache.logging.log4j:log4j-core:2.1"
-    compile "aero.geosystems:GNSS"
+//    compile "GNSS"
 //    compile project(':GNSS')
 }
